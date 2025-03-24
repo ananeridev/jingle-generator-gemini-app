@@ -1,6 +1,8 @@
-# Jingle Generator
+# Jingle Generator - having fun with Gemini API
 
-A web application that generates custom jingles using Google's Gemini AI. Users can input their ideas, and the AI will create a jingle with lyrics and musical style description.
+A web application that generates custom jingles using Google's Gemini AI. Users can input their ideas, and the AI will create a jingle with lyrics and musical style descriptions.
+
+![Screenshot 2025-03-24 at 20 26 14](https://github.com/user-attachments/assets/eb614d88-367b-4aed-aee2-60e1cfac74ef)
 
 ## Features
 
