@@ -5,7 +5,7 @@ const { GoogleGenerativeAI } = require("@google/generative-ai");
 const app = express();
 const port = 3000;
 
-app.use(express.static("public"));
+app.use(express.static("web"));
 app.use(express.json());
 
 const genAI = new GoogleGenerativeAI(process.env.GOOGLE_API_KEY);
